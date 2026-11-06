@@ -6,8 +6,8 @@ notebook~=7.6.0
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.8.0
 
-# xeus loader
-jupyterlite-xeus
+# xeus loader (nope)
+# jupyterlite-xeus
 
 # JavaScript kernel (optional)
 jupyterlite-javascript-kernel==0.3.0
